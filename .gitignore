@@ -3,8 +3,8 @@
 
 # OS generated files #
 ######################
-.DS_Store?
-ehthumbs.db
+.DS_Store
+.ipynb_checkpoints
 ._*
 # Icon?
 Thumbs.db
